@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A7S212021prac5</string>
+    <string name="ListaImagenes">Lista de Imagenes</string>
+    <string name="Piepantalla">DANDU @2020</string>
+    <string name="logoa">Logo A</string>
+    <string name="logob">Logo B</string>
+    <string name="logoc">Logoc</string>
+    <string name="logod">Logo D</string>
+    <string name="logoe">Logo E</string>
+    <string name="logof">Logo F</string>
+    <string name="mibtn">Preciona Aquí</string>
+    <string name="ingnombre">Ingresa tu nombre</string>
+</resources>
